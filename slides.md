@@ -5,13 +5,13 @@ highlighter: shiki
 lineNumbers: false
 ---
 
-<img class=logo src="/images/nearform.svg">
-
-# OWASP Top Ten Security Vulnerabilities Workshop
+# Ciberseguridad: Vulnerabilidades web mas comunes (OWASP Top 10) y como prevenirlas
 
 <img class="bg-white" src="/assets/owasp.png" style="width: 30%;">
 
 <div class="copyright">
+
+Anuar Morales
 
 <Copyright />
 
