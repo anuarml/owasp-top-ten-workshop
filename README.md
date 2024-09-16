@@ -1,7 +1,5 @@
 # The OWASP Top Ten Workshop
 
-![CI](https://github.com/nearform/owasp-top-ten-workshop/actions/workflows/ci.yml/badge.svg?event=push)
-
 Workshop based on the [OWASP Top Ten](https://owasp.org/www-project-top-ten/) security vulnerabilities
 
 ## Requirements
@@ -13,13 +11,13 @@ Workshop based on the [OWASP Top Ten](https://owasp.org/www-project-top-ten/) se
 
 ## Setup
 
-- `npm ci`
+- `npm install`
 - `npm run db:up`
 - `npm run db:migrate`
 
 ## Slides
 
-Slides contain instructions for the workshop. You can read them at https://nearform.github.io/owasp-top-ten-workshop, or:
+Slides contain instructions for the workshop.
 
 `npm start` will open the slides in the browser
 

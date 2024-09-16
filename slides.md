@@ -74,8 +74,8 @@ Anuar Morales
 <br />
 
 ```bash
-git clone https://github.com/nearform/owasp-top-ten-workshop
-npm ci
+git clone https://github.com/anuarml/owasp-top-ten-workshop/tree/master
+npm install
 npm run db:up
 npm run db:migrate
 ```
